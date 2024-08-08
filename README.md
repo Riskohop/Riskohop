@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World!
+# Im riski :) love coding games and websites
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskohop)
 
 <!--
 **Riskohop/Riskohop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
