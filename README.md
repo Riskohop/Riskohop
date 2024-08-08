@@ -1,6 +1,6 @@
 # Hello World!
 ## Im riski :) love coding games and websites
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Riskohop)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Riskohop) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riskohop)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
