@@ -3,7 +3,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Riskohop&theme=dark&hide=issues,stars&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riskohop&layout=compact&theme=dark&hide=hlsl,shaderlab,css)
-<img width="770px" src="./photo_2024-08-03_02-57-23.jpg" /> 
+<img width="770px" src="./photo_2025-05-13_00-02-40.jpg" /> 
 ![](https://leetcard.jacoblin.cool/416705cemen?theme=dark&font=Montserrat)
 
 🌍  I'm based in Tomsk <br/>
