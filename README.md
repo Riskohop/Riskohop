@@ -60,8 +60,8 @@
 
 ## 📊 GitHub Stats
 
-![Semyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=riskohop\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskohop\&layout=compact\&theme=tokyonight)
+![Semyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=riskohop\&show_icons=true\&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskohop\&layout=compact\&theme=dark)
 
 ---
 
